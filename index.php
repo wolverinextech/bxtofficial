@@ -1,6 +1,4 @@
-<?php 
-
-  <html>
+<html>
    	<head>
    	<title>Welcome To My Site</title>
        <meta name="og:title" content="BXT Official"/>
@@ -15,5 +13,3 @@
            </center>
        </body>
    </html>
-
-?>
